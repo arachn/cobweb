@@ -6,6 +6,8 @@
 
 cobweb为arachn提供有线连接保障，实现的方式是通过各种控制阀实现导流
 
+面向的服务对象为100亩-1000亩大型农场管理
+
 ### [项目](https://github.com/OS-Q/arachn/cobweb/wiki) 
 
 [power](power/) 能量供给网络，通过标准协议接入固定的电压和功耗设备
