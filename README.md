@@ -1,22 +1,20 @@
-﻿# [cobweb](https://github.com/arachn/cobweb) 
+﻿# [cobweb 蛛网](https://github.com/arachn/cobweb) 
 ####  © qitas@qitas.cn
 ## [简介](https://github.com/OS-Q/arachn/cobweb/wiki) 
 
-通过智能化的管网实现精益覆盖，供电线缆足够短足够覆盖大面积区域
+cobweb项目通过智能化精益化网络实时实现农场的全面覆盖，科学合理的布局降低单位面积的设施成本，提供更强大更全面的功能覆盖，为进一步的自动化智能化提供基础设施。
 
-cobweb为arachn提供有线连接保障，实现的方式是通过各种控制阀实现导流
-
-面向的服务对象为100亩-1000亩大型农场管理
+cobweb面向大面积户外土地，通过架空的线缆和埋入的管网实现功能全面的覆盖和管控。
 
 ### [项目](https://github.com/OS-Q/arachn/cobweb) 
 
 - [power](power/) 能量供给网络，通过标准协议接入固定的电压和功耗设备
 
-- [tower](tower/) 地上通信网络，通过点覆盖实现无线通信信号处理和转发
+- [tower](tower/) 地上功能网络，通过点覆盖实现无线通信信号处理和转发
 
-- [lower](lower/) 地下实施网络，通过有限接入到各种点网，管控喷施采集
+- [lower](lower/) 地下功能网络，通过有限接入到各种点网，管控喷施采集
 
 - [cower](cower/) 户外监控网络，通过无线控制终端接入视频和音频监控
 
 
-####  [精耕细织arachn](http://www.arachn.com)
+####  [精耕细织 Arachn](http://www.arachn.com)
