@@ -1,4 +1,4 @@
-﻿## [power](https://github.com/arachn/cobweb) 
+﻿## [Power](https://github.com/arachn/cobweb) 
 
 cobweb项目的电力网络，为移动式生产设备及固定设施提供电力保障
 
