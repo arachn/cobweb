@@ -1,7 +1,7 @@
 ﻿## [Lower](https://github.com/arachn/cobweb) 
 
 
-### Lower工程目标
+### [Lower功能定义](https://github.com/arachn/cobweb/projects/3)
 
 - 地下供水和肥网络，主干和分支设计，最低成本的布网和最全面易得的实现
 - 地下感知设计，通过地下式传感器获得水土检测数据，通过数据提供相应的改良决策
